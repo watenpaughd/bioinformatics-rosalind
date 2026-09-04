@@ -1,2 +1,2 @@
 # bioinformatics-rosalind
-repo for UTA bioinformatics course
+Dexter Watenpaugh + 1002393903 + BIOL5340-001
